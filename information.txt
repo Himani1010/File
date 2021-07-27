@@ -1,0 +1,7 @@
+Hello! I'm Himani . I'm from Nainital(UK).
+Now I am in Bangalore . I'm doing now Python course from Bangalore campus.
+Name: Himani
+From:Nainital
+Current:Bangalore
+Age:20
+D.O.B.:10 Oct 2001
